@@ -5,7 +5,7 @@
 **`Digital Craftsman (Programmer/Visual Designer/Filmmaker)`**
 
 **Hi there 👋🏽 welcome to my Github! I am a dedicated high school student in Poland, passionate about computer science and eager to make a positive impact on the world. Alongside my studies, 
-I specialize in video editing for 🎥 YouTube channels and creating engaging graphic content to enhance the videos. I am excited about further developing my coding skills and exploring new 
+I specialize in video editing for 🎥 YouTube channels and creating graphic content to enhance the videos. I am excited about further developing my coding skills and exploring new 
 avenues for innovation. I look forward to the journey ahead, where I can contribute meaningfully and continue to grow!**
 
 
