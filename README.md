@@ -1,6 +1,9 @@
-# Shadyy💫 
+<img src="https://github.com/xShadyy/xShadyy/assets/131590030/1e4470b2-799d-4f75-99f6-f5a2a9bab300" height="250px"><img src="https://github.com/xShadyy/xShadyy/assets/131590030/1e4470b2-799d-4f75-99f6-f5a2a9bab300" height="250px">
+# Shadyy <img align="center" src="https://github.com/xShadyy/xShadyy/assets/131590030/af610557-a6f7-4302-924d-1ce8af20876c" width="40" height="40">
+
 
 <img src="https://github.com/xShadyy/xShadyy/assets/131590030/4dcc841a-5b1e-43b9-9526-1d81ecb93b0f" width="30" height="15"> <img src="https://github.com/xShadyy/xShadyy/assets/131590030/bc02bcef-d5b4-497a-b858-e7752becb6a4" width="30" height="15"> <img src="https://github.com/xShadyy/xShadyy/assets/131590030/0227b0a4-7744-4019-9992-2ada718b951c" width="30" height="15">
+
 
 **`Digital Craftsman (Programmer/Visual Designer/Filmmaker)`**
 
@@ -10,6 +13,8 @@ avenues for innovation. I look forward to the journey ahead, where I can contrib
 
 
 -------
+
+
 ### 🧰 Languages and Tools
 
 
@@ -31,8 +36,8 @@ avenues for innovation. I look forward to the journey ahead, where I can contrib
 <img align="left" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" />      
 <br/>
 
-       
-          
+
+
 #
 
 <div align="center">
