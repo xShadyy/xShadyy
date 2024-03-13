@@ -19,8 +19,6 @@ avenues for innovation. I look forward to the journey ahead, where I can contrib
 
 
 
-
-
 <img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -33,15 +31,26 @@ avenues for innovation. I look forward to the journey ahead, where I can contrib
 <img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
 <img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img align="left" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" />      
+<img align="left" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" /> 
 <br/>
-
-
 
 #
 
+
+
+
+
+<!-- 
+SNAKE ANIMATED
 <div align="center">
-    <img src="https://github.com/xShadyy/xShadyy/assets/131590030/751367d4-43cf-4cc3-b134-bda3b003dce7.gif" alt="Description of the image">
+ <img  src="https://github.com/xShadyy/xShadyy/assets/131590030/2b856584-f659-42e9-9c9d-f94ff63a2af4" alt="Snake animation" />
+</div>
+GIF
+<img src="https://github.com/xShadyy/xShadyy/assets/131590030/57c0e840-498e-4a5b-a86e-0c3dd923a3e4" width="300" height="150">
+-->
+
+<div align="center">
+  <img src="https://github.com/xShadyy/xShadyy/assets/131590030/751367d4-43cf-4cc3-b134-bda3b003dce7.gif" alt="Description of the image">
   <br><br>
     <p>Check out my repos ⬇️</p>
 </div>
