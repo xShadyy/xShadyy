@@ -1,4 +1,4 @@
-<img src="https://github.com/xShadyy/xShadyy/assets/131590030/1e4470b2-799d-4f75-99f6-f5a2a9bab300" height="250px"><img src="https://github.com/xShadyy/xShadyy/assets/131590030/1e4470b2-799d-4f75-99f6-f5a2a9bab300" height="250px">
+<!--<img src="https://github.com/xShadyy/xShadyy/assets/131590030/1e4470b2-799d-4f75-99f6-f5a2a9bab300" height="250px"><img src="https://github.com/xShadyy/xShadyy/assets/131590030/1e4470b2-799d-4f75-99f6-f5a2a9bab300" height="250px"> -->
 # Shadyy <img align="center" src="https://github.com/xShadyy/xShadyy/assets/131590030/af610557-a6f7-4302-924d-1ce8af20876c" width="40" height="40">
 
 
