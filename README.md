@@ -12,7 +12,7 @@
    FqM            MMMM       Instagram: ["https://www.instagram.com/godshadyy/"]
  __| ".        |\dS"qML      Linkedin: ["https://www.linkedin.com/in/tymoteusz-netter/"]
  |    `.       | `' \Zq      
-_)      \.___.,|     .'      contacts
+_)      \.___.,|     .'      contact
 \____   )MMMMMP|   .'        --------
      `-'       `--'          Email: "tymoteusz.netter@gmail.com"
 ```
