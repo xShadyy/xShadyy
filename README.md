@@ -3,13 +3,13 @@
         dGGGGMMb             ------------
        @p~qp~~qMb            Uptime: "18 years"
        M|@||@) M|            Position: "Poznań, Poland"
-       @,----.JM|            Languages: ["Python","Java","C++","JS"]
-      JS^\__/  qKL           OS: "Linux"
+       @,----.JM|            Languages: ["Python","C#","C++","JS"]
+      JS^\__/  qKL           OS: "Linux, Windows"
      dZP        qKRb         
     dZP          qKKb        socials
    fZP            SMMb       -------
    HZM            MMMM       TryHackMe: ["https://tryhackme.com/p/Shadyy"]
-   FqM            MMMM       Instagram: ["https://www.instagram.com/godshadyy/"]
+   FqM            MMMM       Instagram: ["https://www.instagram.com/g80.shadyy/"]
  __| ".        |\dS"qML      Linkedin: ["https://www.linkedin.com/in/tymoteusz-netter/"]
  |    `.       | `' \Zq      
 _)      \.___.,|     .'      contact
