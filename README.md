@@ -3,7 +3,7 @@
         dGGGGMMb             ------------
        @p~qp~~qMb            Uptime: "18 years"
        M|@||@) M|            Position: "Poznań, Poland"
-       @,----.JM|            Languages: ["Python","C#","C++","JS"]
+       @,----.JM|            Languages: ["Python","TypeScript","C++","JS"]
       JS^\__/  qKL           OS: "Linux, Windows"
      dZP        qKRb         
     dZP          qKKb        socials
