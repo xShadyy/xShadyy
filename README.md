@@ -1,7 +1,7 @@
 ```python
          _nnnn_              shdy@poland
         dGGGGMMb             ------------
-       @p~qp~~qMb            Uptime: "18 years"
+       @p~qp~~qMb            Uptime: "19 years"
        M|@||@) M|            Position: "Poznań, Poland"
        @,----.JM|            Languages: ["Python","TypeScript","C++","JS"]
       JS^\__/  qKL           OS: "Linux, Windows"
