@@ -24,7 +24,8 @@ _)      \.___.,|     .'      contact
          
  **`Digital Craftsman (Pentester/Cybersecurity Specialist/Gray Hat)`**
 
-$${\color{lightgreen}Shdy@Dekstop:}$$~$ $${\color{lightblue}echo}$$ "Cybersecurity professional specializing in red teaming, penetration testing, and offensive security. 
+Shdy@Dekstop:~$ echo "Cybersecurity professional specializing in red teaming, penetration testing, and offensive security."
+
 
 Besides that, I like to break (into) stuff."
 
