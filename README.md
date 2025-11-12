@@ -9,12 +9,12 @@
     dZP          qKKb        socials
    fZP            SMMb       -------
    HZM            MMMM       TryHackMe: ["https://tryhackme.com/p/Shadyy"]
-   FqM            MMMM       Instagram: ["https://www.instagram.com/g80.shadyy/"]
- __| ".        |\dS"qML      Linkedin: ["https://www.linkedin.com/in/tymoteusz-netter/"]
- |    `.       | `' \Zq      
-_)      \.___.,|     .'      contact
-\____   )MMMMMP|   .'        --------
-     `-'       `--'          Email: "tymoteusz.netter@gmail.com"
+   FqM            MMMM       Linkedin: ["https://www.linkedin.com/in/tymoteusz-netter/"]
+ __| ".        |\dS"qML    
+ |    `.       | `' \Zq      contact
+_)      \.___.,|     .'      --------
+\____   )MMMMMP|   .'        Email: "tymoteusz.netter@gmail.com"
+     `-'       `--'          
 ```
 
 -------
