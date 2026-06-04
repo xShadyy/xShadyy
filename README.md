@@ -2,7 +2,7 @@
          _nnnn_              shdy@poland
         dGGGGMMb             ------------
        @p~qp~~qMb            Uptime: "20 years"
-       M|@||@) M|            Position: "Poznań, Poland"
+       M|@||@) M|            Position: "Poland"
        @,----.JM|            Languages: ["Python","TS","C++","C#"]
       JS^\__/  qKL           OS: "Linux, Windows"
      dZP        qKRb         
