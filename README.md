@@ -2,9 +2,9 @@
          _nnnn_              shdy@poland
         dGGGGMMb             ------------
        @p~qp~~qMb            Uptime: "20 years"
-       M|@||@) M|            Position: "Poland"
-       @,----.JM|            Languages: ["Python","TS","C++","C#"]
-      JS^\__/  qKL           OS: "Linux, Windows"
+       M|@||@) M|            Position: "Poland/Netherlands"
+       @,----.JM|            Languages: ["Python","Java","TS","C++","C#"]
+      JS^\__/  qKL           OS: ["Linux", "Windows"]
      dZP        qKRb         
     dZP          qKKb        socials
    fZP            SMMb       -------
