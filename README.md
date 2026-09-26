@@ -2,7 +2,7 @@
          _nnnn_              shdy@poland
         dGGGGMMb             ------------
        @p~qp~~qMb            Uptime: "20 years"
-       M|@||@) M|            Position: "Poland/Netherlands"
+       M|@||@) M|            Position: "United States/Netherlands/Poland"
        @,----.JM|            Languages: ["Python","Java","TS","C++","C#"]
       JS^\__/  qKL           OS: ["Linux", "Windows"]
      dZP        qKRb         
@@ -22,7 +22,7 @@ _)      \.___.,|     .'      --------
 <div align="center">
   <img src="https://github.com/user-attachments/assets/2cacd356-9239-4591-8327-678140cc3442" alt="Description of the image">
          
- **`Digital Craftsman (Pentester/Cybersecurity Specialist/Gray Hat)`**
+ **`Digital Craftsman (Pentester/Cybersecurity Specialist/Exploit Researcher)`**
 
 Shdy@Dekstop:~$ echo "Cybersecurity professional specializing in red teaming, penetration testing, and offensive security."
 
